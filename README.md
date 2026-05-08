@@ -1,6 +1,6 @@
 # Zine Holders
 
-![8 mini-comic zine holders in 2 zine holder cases, both old and current styles shown](/assets/images/zine_holders.jpeg)
+![8 mini-comic zine holders in 2 zine holder cases, both old and current styles shown](/assets/image/zine_holders.jpeg)
 
 A set of 3d printed cases for organizing zines. Available in mini-comic 8 page size and chick tracts size, half page coming soon!
 
